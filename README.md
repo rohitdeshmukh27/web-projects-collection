@@ -9,6 +9,7 @@ This repository contains a collection of small web development projects created 
 | Project                  | Tech Stack        | Live Demo                           | Source Code          |
 |--------------------------|------------------|-------------------------------------|-----------------------|
 | Digital Clock            | HTML, CSS, JS     | [Live](https://rohitdeshmukh27.github.io/Clock/)| [Code](https://github.com/rohitdeshmukh27/Clock)       |
+| Demonstrate RSA Algorithm| HTML, CSS, JS     | [Live](https://rohitdeshmukh27.github.io/Encrypt-My-Pizza/)| [Code](https://github.com/rohitdeshmukh27/Encrypt-My-Pizza)       |
 | Linear Search Visualizer | HTML, CSS, JS     | [Live](https://rohitdeshmukh27.github.io/Linear-Search/)| [Code](https://github.com/rohitdeshmukh27/Linear-Search) |
 | Binary Search Visualizer | HTML, CSS, JS     | [Live](https://rohitdeshmukh27.github.io/Binary-Search/)| [Code](https://github.com/rohitdeshmukh27/Binary-Search) |
 | Shoe Advertisement Page  | ReactJS           | [Live](https://rohitdeshmukh27.github.io/basic-shoes-advertisement-website/)| [Code](https://github.com/rohitdeshmukh27/basic-shoes-advertisement-website)     |
